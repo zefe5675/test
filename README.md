@@ -1,2 +1,2 @@
-# lab_1_3308
+# test
 This is my first github repo!
